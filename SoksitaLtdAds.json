@@ -79,7 +79,14 @@
       "packageName": "com.Encorps.Tayc.SoksitaLtd",
       "icon": "https://play-lh.googleusercontent.com/j7ueOLKVAxJMQ1dRCZlhMzLMlZNdFuf53zn9zCj2iWeZ8jP9XW4-27pLbsJTAywyZi0=w240-h480-rw",
       "download": "+500 Million"
+    },
+    {
+      "name": "Music Aya Nakamura Offline",
+      "packageName": "com.Nakamura.Aya.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/oJUA8aS39NaGMqkk8lVVTptImKVxCH3pEdpfdwCx-Ty9Kc5j7dRmSvSeGTLl2UAdHRb5=w240-h480-rw",
+      "download": "+500 Million"
     }
+    
   ]
   
 }
