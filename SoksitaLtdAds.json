@@ -20,7 +20,7 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -51,46 +51,34 @@
   
   "AppsPromote": [
     {
-      "name": "Music Jul & Lyrics Offline",
-      "packageName": "com.Superstar.jul.gouss",
-      "icon": "https://play-lh.googleusercontent.com/oiQXFBgsnxgzi5qlMjH4FWkr9sAx75kss6mOlTs51Qrm3RByfOCyA02PibWogRY1_A",
+      "name": "Music Dadju & lyrics Offline",
+      "packageName": "com.Anonyme.Dadju.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/gWsdKTVNf98VuRNUZmcx1Nq_hMEd6rJc_HxoThL3L48j2H3aMGQHf8ezpS50QFFl2w=w240-h480-rw",
       "download": "+50K"
     },
     {
-      "name": "Chansons françaises Offline",
-      "packageName": "com.chansons.hitfrancaise.gouss",
-      "icon": "https://play-lh.googleusercontent.com/hCKHucE73QP5pa0xb3jRB2jr2ed3r207-LPRydLg8coSQsdvkJ8i612OppUWVnxFBA",
+      "name": "Music RK & Lyrics Offline",
+      "packageName": "com.Ryad.Kartoum.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/x-gjCYLoz-wqaEiLbDDO5vNNoKSeimcXvBEp8oOLvPlqRV-ZlApWSziZ61h0E0H3foU=w240-h480-rw",
       "download": "+1 Million"
     },
     {
-      "name": "Maitre Gims & Lyrics Offline",
-      "packageName": "com.gimsmaitre.prendmamain.gouss",
-      "icon": "https://play-lh.googleusercontent.com/zLyoMHLZH_cGZ8NU54eqN_2RCSVL0M3r996LSDEMjrCPMbmKWFh1x6pR4vRmvqCoq-s",
+      "name": "Music Maitre Gims & Lyrics",
+      "packageName": "com.Gims.Maitre.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/t0aaN8RpiUL7jOnF6U69M2AG6do5g7wBGvJeH3n_EY6I6jw63OAfcZemS_5ky_QO4w=w240-h480-rw",
       "download": "+100K"
     },
     {
-      "name": "Eva Queen & Lyrics",
-      "packageName": "com.eva.oxegene.gouss",
-      "icon": "https://play-lh.googleusercontent.com/Yu7fErx5k448n3h3bstsQt93QPutUpiHDgwcAf4vit9exrM1zNV4t8IVcBvzbsuA2z0",
+      "name": "Music Ninho & Lyrics Offline",
+      "packageName": "com.BigPac.Ninho.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/EVqMMgWgCogDcPV6wb_bRO93ND0wdy4TQXlhBACOHojXFklYnATCJXntoPds8WKzl84=w240-h480-rw",
       "download": "+1 Million"
     },
     {
-      "name": "Leo Rojas & Lyrics",
-      "packageName": "com.leorojas.amigos.gouss",
-      "icon": "https://play-lh.googleusercontent.com/ztdQmM0vVJl8rj6EWtahcGWnNWFUupCUKXZh8DP3KAlmYS_cJ0X4YKlp6-l7KWf3ttw",
+      "name": "Music Tayc & Lyrics Offline",
+      "packageName": "com.Encorps.Tayc.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/j7ueOLKVAxJMQ1dRCZlhMzLMlZNdFuf53zn9zCj2iWeZ8jP9XW4-27pLbsJTAywyZi0=w240-h480-rw",
       "download": "+500 Million"
-    },
-    {
-      "name": "Music Niska & Lyrics",
-      "packageName": "com.niska.bolivienne.gouss",
-      "icon": "https://play-lh.googleusercontent.com/AmwziaP0Xmqt2dTKYKzgkPbk3E0ifLjl2cmCLtHbn8TMwR19CgyCqMTVbB5Cm51uaw",
-      "download": "+1 Million"
-    },
-    {
-      "name": "Mark Forster & Lyrics",
-      "packageName": "com.markfos.terchone.gouss",
-      "icon": "https://play-lh.googleusercontent.com/rvf5kz5LHYr1xh3fucvrtP9qJYm-2ao7iLE7skuRW60T992XiVhvV3KjSOzlDlzlyA",
-      "download": "+100K Million"
     }
   ]
   
